@@ -41,7 +41,7 @@ The JavaScript logic handled the dynamic rendering of product images, product de
 
 ## Credits
 
-This project was completed as part of the E-commerce Product Page challenge provided by [Frontend Mentor](https://www.frontendmentor.io/). The challenge provided the design mockup and assets, and I implemented the code using HTML, SCSS, and JavaScript to achieve the desired functionality and appearance.
+This project was completed as part of the E-commerce Product Page challenge by [Frontend Mentor](https://www.frontendmentor.io/). The challenge provided the design mockup and assets, and I implemented the code using HTML, SCSS, and JavaScript to achieve the desired functionality and appearance.
 
 ## License
 
